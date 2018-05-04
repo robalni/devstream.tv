@@ -1058,7 +1058,7 @@
       "My game":"http://fortygame.com/"
     }
   },
-  { 
+  {
     "name": "Geert-Johan",
     "twitch": "geertjohan",
     "tags": ["Go", "Programming"],
@@ -1079,7 +1079,7 @@
       "Twitch": "https://www.twitch.tv/rgomex"
     }
   },
-  { 
+  {
     "name": "rockzombie2",
     "twitch": "rockzombie2",
     "tags": ["JavaScript", "Programming", "Node.js", "Web Development", "Vim", "League of Legends"],
@@ -1106,7 +1106,7 @@
       "DTube": "https://d.tube/#!/c/ispooge"
     }
   },
-  { 
+  {
     "name": "James Pain",
     "twitch": "jpainio",
     "tags": ["C#", "DevOps", "Computer Vision", "Web Development", "Azure"],
@@ -1155,8 +1155,45 @@
     }
   },
   {
-    "name": "KreyNation",
-    "twitch": "kreynationbv",
+    "name": "Levi makes apps",
+    "twitch": "levimakesapps",
+    "tags": ["OSS", "iOS", "Android", "Product Design", "API's", "Node.js"],
+    "links": {
+      "Website": "https://levimakesapps.com/",
+      "Twitch": "https://twitch.tv/levimakesapps",
+      "GitHub": "https://github.com/levibostian",
+      "Twitter": "https://twitter.com/levimakesapps",
+      "YouTube": "https://www.youtube.com/channel/UCi6LazKSCVOWAT2cYGiEgVQ"
+    }
+  },
+  {
+    "name": "Brian McKenna",
+    "twitch": "puffnfresh",
+    "tags": ["Haskell", "Functional Programming"],
+    "links": {
+      "Twitch": "https://www.twitch.tv/puffnfresh",
+      "Github": "https://github.com/puffnfresh",
+      "Youtube": "https://www.youtube.com/c/BrianMcKennaPuffnfresh",
+      "BitBucket": "https://bitbucket.org/puffnfresh",
+      "Twitter": "https://twitter.com/puffnfresh",
+      "Website": "https://brianmckenna.org/blog/"
+    }
+  },
+  {
+    "name": "Edward Kmett",
+    "twitch": "ekmett",
+    "tags": ["Haskell"],
+    "links": {
+      "Twitch": "https://www.twitch.tv/ekmett",
+      "Website": "http://comonad.com/",
+      "GitHub": "https://github.com/ekmett",
+      "Twitter": "https://twitter.com/kmett",
+      "Youtube": "https://www.youtube.com/user/edwardkmett"
+    }
+  },
+  {
+    "name": "Scope Web LLC",
+    "twitch": "ScopeWebLLC",
     "tags": [
       "Node.js",
       "Laravel",
@@ -1166,12 +1203,51 @@
       "Web Development"
     ],
     "links": {
-      "Twitch": "https://twitch.tv/kreynationbv",
+      "Twitch": "https://twitch.tv/scopewebllc",
       "Discord": "https://discord.gg/sQbZb6z",
-      "Instagram": "https://instagram.com/kreynation",
-      "Website": "https://www.kreynation.com",
-      "Blog": "https://blog.kreynation.com",
-      "Twitter": "https://twitter.com/kreynation"
+      "Instagram": "https://instagram.com/scopeweb",
+      "Website": "https://www.scopeweb.nyc",
+      "GitHub": "https://github.com/scopeweb",
+      "Twitter": "https://twitter.com/scopewebnyc"
+    }
+  },
+  {
+    "name": "Stephan Moerman",
+    "twitch": "DevBowser",
+    "tags": [
+      "PHP",
+      "Laravel",
+      "Ruby on Rails",
+      "Full Stack Development",
+      "Freelancer",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/devbowser",
+      "Discord": "https://discord.gg/sQbZb6z",
+      "Instagram": "https://instagram.com/stephan.m90",
+      "Website": "https://www.stmoerman.me",
+      "GitHub": "https://github.com/devbowser",
+      "Twitter": "https://twitter.com/stmoerman"
+    }
+  },
+  {
+    "name": "Nathan Henniges",
+    "twitch": "MrDemonWolf",
+    "tags": [
+      "Grav CMS",
+      "WordPress",
+      "JavaScript",
+      "UI design",
+      "Web Development"
+    ],
+    "links": {
+      "Twitch": "https://twitch.tv/mrdemonwolf",
+      "Discord": "https://discord.gg/KNyYZMu",
+      "Instagram": "https://instagram.com/scopeweb",
+      "Website": "https://www.mrdemonwolf.me",
+      "GitHub": "https://github.com/mrdemonwolf",
+      "Twitter": "https://twitter.com/mrdemonwolf"
     }
   }
 ]
